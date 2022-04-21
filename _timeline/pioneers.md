@@ -11,6 +11,7 @@ events:
   - tesler-profile
   - atkinson-profile
   - raskin-profile
-  - lanier-profile 
+  - lanier-profile
+  - travis-oliphant 
 ---
 
