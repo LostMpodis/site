@@ -26,4 +26,5 @@ events:
   - processing-ide 
   - learntomod
   - spyder-ide
+  - lisp
 ---
